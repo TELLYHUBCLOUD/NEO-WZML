@@ -265,7 +265,7 @@ class Config:
 
 
 class BinConfig:
-    ARIA2_NAME = "neoweb"
-    QBIT_NAME = "neobit"
-    FFMPEG_NAME = "neorender"
-    RCLONE_NAME = "neocloud"
+    ARIA2_NAME = "tellyweb"
+    QBIT_NAME = "tellybit"
+    FFMPEG_NAME = "tellyrender"
+    RCLONE_NAME = "tellycloud"
